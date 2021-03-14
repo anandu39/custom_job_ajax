@@ -1,0 +1,28 @@
+.report-a-bug-message{
+     display: none;
+    margin-top: 1em;
+}
+.show-form{
+  align-items: right;
+  padding: 13px 85px;
+}
+.report-a-bug-response{
+  margin-top:1em; 
+}
+.report-a-bug-message .txtfields {
+  width: 100%;
+  clear: both;
+}
+.value_message{
+      margin-top: 1em;
+    width: 500px;
+    clear: both;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 1.5);
+    display: none;
+    color: blueviolet;
+}

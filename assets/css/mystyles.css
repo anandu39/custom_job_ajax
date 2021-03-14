@@ -1,0 +1,39 @@
+.container {
+  width: 500px;
+  clear: both;
+}
+
+.container input {
+  width: 100%;
+  clear: both;
+}
+
+.sp_display_post{
+	text-align: left;
+}
+
+.display_cpost{
+	text-align: right;
+}
+
+
+.display_post_head{
+	text-align: center;
+    font-family: monospace;
+    font-weight: bolder;
+}
+.display_button{
+	align-items: right;
+	padding: 13px 280px;
+}
+.report-a-bug-message{
+  display: none;
+  margin-top: 1em;
+}
+.show-form{
+  align-items: right;
+  padding: 13px 280px;
+}
+.report-a-bug-response{
+  margin-top:1em; 
+}
